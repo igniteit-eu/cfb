@@ -1,6 +1,8 @@
 # CFB
 
-The buildsytem "Chainsaw For Bureaucracy" or "Clean Fast Build" or whatever you chose to call it.
+The build system "Chainsaw For Bureaucracy" - or "Clean Fast Build", if you prefer.
+
+Cut the crap. Build fast.
 
 CFB is a new kind of build system: lean, distributed, and built to cut through the complexity that has crept into modern build tooling.
 
@@ -23,7 +25,7 @@ CFB brings back sanity by focusing on three core ideas:
 ## Vision
 
 CFB isn’t just another incremental improvement on Bazel or Buck.
-It’s a "back to basic", ground-up rethinking of what a build system can be in a decentralized world.
+It’s "back to basics", a ground-up rethinking of what a build system can be in a decentralized world.
 
 - Deterministic builds without the central bottleneck.
 - Shared computation and caching across peers.
@@ -41,7 +43,7 @@ Contributions, ideas, and critiques are all welcome.
 
 ## Building
 
-    git clone https://github.com/igniteit/cfb
+    git clone https://github.com/igniteit-eu/cfb
     cd cfb
     cargo build --release
 
